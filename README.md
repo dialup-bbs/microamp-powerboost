@@ -2,7 +2,7 @@
 
 A classic clean boost circuit modified with knob-controlled asymmetrical blue & white LED clipping diodes and paired with the output section from a famous 90s overdrive pedal. 
 
-It provides thick, crunchy distortion and low end when using the LED's. Can do geranium-like fuzz when maxed out, ala Electric Wizard. 
+It provides thick, crunchy distortion and low end when using the LED's. Can do germanium-like fuzz when maxed out, ala Electric Wizard. 
 
 For super-fuzz distortion, run at 9v.
 
